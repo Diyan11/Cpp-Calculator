@@ -1,4 +1,7 @@
 # Cpp-Calculator
+🧑‍💻 About the Author
+Diyan11 – Computer Science student building practical programming skills
+⭐ Feel free to star the repo or reach out via GitHub!
 
 A simple command-line calculator built in C++. It supports basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
